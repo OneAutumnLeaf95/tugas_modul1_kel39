@@ -1,0 +1,30 @@
+        .datang {
+            color :black;
+            text-align: center;
+            font-size: 30px;
+        }
+        .isi {
+            color : black;
+            text-align: left;
+            font-size: 18px;
+        }
+        .input_data {
+            margin: 250px auto;
+            width: 450px;
+            padding: 15px;
+            border: 5px solid rgb(59, 59, 59);
+            background: rgb(126, 231, 112);
+        }
+        input[type=nama], input[type=nim] {
+            width: 60%;
+            padding: 10px;
+        }
+        .button {
+            float: right;
+            padding: 10px;
+            width: 90px;
+            border: 1px solid rgb(0, 0, 0);
+            color: rgba(255, 255, 255, 0.753);
+            background: rgb(67, 34, 187);
+            cursor: pointer;
+        }
